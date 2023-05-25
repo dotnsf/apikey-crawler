@@ -1,0 +1,14 @@
+{
+    "name": "apikey-crawler",
+    "version": "0.0.1",
+    "scripts": {
+        "start": "node crawler.js"
+    },
+    "dependencies": {
+        "cheerio-httpcli": "^0.8.3"
+    },
+    "repository": {},
+    "engines": {
+        "node": "16.x"
+    }
+}
