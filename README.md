@@ -2,7 +2,12 @@
 
 ## Overview
 
-現実は microCMS に限らず使えると思う・・・
+React.js で作られたサイトをターゲットに `apiKey` をクロールする
+
+
+## Usage
+
+`$ node crawler [URL]`
 
 
 ## Copyright
